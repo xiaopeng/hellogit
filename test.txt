@@ -4,3 +4,4 @@ I am doing sth!
 dodododo
 have fix bug-01 done
 add coding:utf-8
+git update clonegit/hellogit
