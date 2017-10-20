@@ -1,4 +1,3 @@
 creategitserver
-bbbbbbb
-tttttttttt
+delete tttbbb
 
